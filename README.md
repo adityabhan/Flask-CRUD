@@ -28,7 +28,7 @@ python app.py
 
 Once the server is running, you can access the API endpoints using a tool like cURL or a web browser.
 
-API Endpoints<br/>
+<strong> API Endpoints</strong><br/>
 
 GET /getAllStudents - Retrieve all students from the database.<br/>
 GET /getStudentById?id={} - Retrieve a specific student by its ID.<br/>
