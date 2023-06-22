@@ -28,14 +28,15 @@ python app.py
 
 Once the server is running, you can access the API endpoints using a tool like cURL or a web browser.
 
-API Endpoints
-GET /getAllStudents - Retrieve all students from the database.
-GET /getStudentById?id={} - Retrieve a specific student by its ID.
-GET /getStudentsByName - Retrieve a list of students by name.
-GET /getStudentsByEnrollmentDate - Retrieve a list of students enrolled on or after a specific date. 
-POST /addNewStudent - Create a new student entry.
-PUT /updateStudentName - Update an existing student name.
-DELETE /deleteStudentById - Delete an item.
+API Endpoints<br/>
+
+GET /getAllStudents - Retrieve all students from the database.<br/>
+GET /getStudentById?id={} - Retrieve a specific student by its ID.<br/>
+GET /getStudentsByName - Retrieve a list of students by name.<br/>
+GET /getStudentsByEnrollmentDate - Retrieve a list of students enrolled on or after a specific date. <br/>
+POST /addNewStudent - Create a new student entry.<br/>
+PUT /updateStudentName - Update an existing student name.<br/>
+DELETE /deleteStudentById - Delete an item.<br/>
 
 
 Refer images folder for more information on API calls.
